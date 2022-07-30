@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737358079007",
+    "project_id": "chatter-srk",
+    "storage_bucket": "chatter-srk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737358079007:android:bd991c5aeaa9fe96af212a",
+        "android_client_info": {
+          "package_name": "com.example.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737358079007-770t2idmdhb9hdtsac5i9sl2t7mjhqs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm7oSg48eNbJnr9IXkVi5SIUHHzfII0aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737358079007-770t2idmdhb9hdtsac5i9sl2t7mjhqs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

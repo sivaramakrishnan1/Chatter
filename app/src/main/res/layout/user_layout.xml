@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp">
+
+    <RelativeLayout
+        android:id="@+id/Group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/pfp"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:src="@drawable/ic_person"
+            android:contentDescription="@string/user_pfp" />
+
+        <TextView
+            android:id="@+id/user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:fontFamily="@font/poppins_bold"
+            android:text="Sivaram Krishnan"
+            android:layout_toEndOf="@id/pfp"
+            android:layout_centerVertical="true"
+            android:textSize="16sp" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/Group"
+        android:background="@color/Gray"
+        android:layout_marginTop="5dp" />
+
+</RelativeLayout>
