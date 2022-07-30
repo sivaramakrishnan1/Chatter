@@ -14,3 +14,4 @@ Need to work on lot of area for this project
 - [x] Create good UI. 
 - [ ] Learn how to edit images and videos in kotlin or in any other way to posterize video.
 - [ ] Integrate 2NS graph encryption.
+- [ ] Apply AI to recognize people and record them alone. 
